@@ -1,3 +1,4 @@
+colors = ["Red", "Green", "", "White", "Black"]
 
 def enumerate_list(colors):
     newlist = []
